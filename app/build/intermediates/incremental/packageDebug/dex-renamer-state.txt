@@ -1,0 +1,7 @@
+#Thu Sep 09 11:36:36 IST 2021
+base.0=C\:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5aa21ba2fd4a9970d14691388825044072a690f8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3aaf6237429e2dbff3c4b33e7e12aca60d3b69d5\\classes.dex
+base.1=C\:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3aaf6237429e2dbff3c4b33e7e12aca60d3b69d5
+file.0=C\:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5aa21ba2fd4a9970d14691388825044072a690f8\\classes.dex

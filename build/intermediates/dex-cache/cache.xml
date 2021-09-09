@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_96e256a741d8bd17241f24eaf0c6fbdd0c54aae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1deec3afc3c03b11796827e88972d1590634961f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d422d2a8c80a711bc141dfc65fa5e8e3bef31c2">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3aaf6237429e2dbff3c4b33e7e12aca60d3b69d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e1e80e5618ce24efaf884fec3cf6133ba2d6555">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-6.2.0_cf435f91ab0032070bfd23ae3244722adae33d93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_cdcaee4d8b5fb062a716cf9e8c8fa65977c60189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_67b3a3436c946842db96480587b69ef7777e0d58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5fad5f00701d3a4d52c22f399cea6aec003f8c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_41c68ff358b0b1aa0afc147947d6e70fe87eca6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_45d21980d8b48cc4b8c390767d4e16bb20aa76eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd7ff3b474e510479f15db5c77eed74f58289fcc">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5aa21ba2fd4a9970d14691388825044072a690f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6ad8eeae8b646c89c6f50b9d7b69c619d7084b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9c3e9dcec02eb9d2483494ddbcbf1b33869d9fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a585536c51042417c44114dc5c577b9a6555a01d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_523a61697cd5bbddb4170a96b1f8983038713b2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_415c54bcce5cd1d0d0412b656cf774291bbabbe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6d5205a4adeaf10b3f16fda3034eb7eb5a8e305c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_82b52b85098050af55a7b20a75ca1448d4e3b0da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Monty\AndroidStudioProjects\MenuVisuals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c4da5653fd481be3fada7cd66f0342f838a0509a\classes.dex" />
+    </item>
+
+</items>

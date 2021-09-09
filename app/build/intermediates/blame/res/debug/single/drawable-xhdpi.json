@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_image.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\test_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_image3.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\test_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_seedish.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\ic_seedish.png"
+    },
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_image2.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\test_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_image1.png",
+        "source": "C:\\Users\\Monty\\AndroidStudioProjects\\MenuVisuals\\app\\src\\main\\res\\drawable-xhdpi\\test_image1.png"
+    }
+]
